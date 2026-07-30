@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "notes": "- Auto Updater",
   "pub_date": "2026-07-29T00:00:00Z",
   "critical": false,
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU1U2ZFpESjkwb2tkOTdxVGFGeld3VE5ab2ZXQ01xSUxHdjYzZ2ZhVXduM3ZQQnFNck44Y3c3QjJubGlZVkIrOWRJWFdnWHkrWHorQkFLZmRiRHBvNDZlMEFyblQ4M3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MzQ1NjExCWZpbGU6YWFhdXRvY2xpY2tlcl8xLjAuMV94NjQtc2V0dXAuZXhlCmJNbGhDeHlUdzk1OFVLd1E1UUNhQmpMVDZmc1NobnloL1hTTXBPOTF0UzlkNzFCYjZKSFNUclU0c3VXVjJKeFlhaFpRZWlmajRXYlJPbzREa1lMbEF3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU1U2ZFpESjkwb3BkdWZveTRRamhLRCtySmQrc1ppamtTd0UvdXFzVHp6d1dFRGtqSEZTeTFXS1ZIWUxKdlJCd29qaW9aaUZYalE0WVppWFhRM2JOYnV2a252cHFHWWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDUzMzMzCWZpbGU6YWFhXzEuMC4yX3g2NC1zZXR1cC5leGUKY0x4YXk5cDJmQjlrYXBQaExjT25rZnpUY0I5dWY5NG5Va2RpV0xySTJIaDdqWDk3ait6bnhCOHplVzdweUtjVDdYbUFLc1N4SUlpblEvbE5YeHFRQWc9PQo=",
       "url": "https://raw.githubusercontent.com/sadasdafgafas/fdsafdsfdfascxzcsa/master/setup.exe"
     }
   }
